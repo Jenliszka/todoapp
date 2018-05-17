@@ -179,7 +179,7 @@ describe('controller', function () {
 	});
 
 	it('should highlight "All" filter by default', function () {
-		// TODO: write test view.js line 43
+		// TODO: write test
 		setUpModel([{
 			title: 'my todo',
 		}]);
